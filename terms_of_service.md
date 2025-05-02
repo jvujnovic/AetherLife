@@ -12,7 +12,7 @@ _Last updated: [02.05.2025]_
 
 ### English
 > Note: This document is currently only available in English. If you require assistance understanding this document in your language, please contact us at [aetherlife.lifecounter@gmail.com].
-
+[index.html](index.html)
 ### German
 > Hinweis: Dieses Dokument ist derzeit nur auf Englisch verfügbar. Wenn Sie Unterstützung benötigen, um dieses Dokument in Ihrer Sprache zu verstehen, kontaktieren Sie uns bitte unter [aetherlife.lifecounter@gmail.com].
 
