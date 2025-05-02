@@ -1,6 +1,12 @@
+---
+layout: page
+title: Privacy Policy
+permalink: /privacy_policy/
+---
+
 # Privacy Policy for AetherLife: MTG Life Counter
 
-_Last updated: [29.04.2025]_
+_Last updated: [02.05.2025]_
 
 ## Introduction
 Thank you for choosing to use AetherLife: MTG Life Counter ("we", "our", "us"). Your privacy is important to us. This Privacy Policy describes how we handle information when you use our mobile application ("the App").

@@ -1,6 +1,12 @@
+---
+layout: page
+title: Terms of Service
+permalink: /terms_of_service/
+---
+
 # Terms of Service for AetherLife: MTG Life Counter
 
-_Last updated: [29.04.2025]_
+_Last updated: [02.05.2025]_
 
 ## Legal Disclaimer Notices
 
@@ -11,7 +17,7 @@ _Last updated: [29.04.2025]_
 > Hinweis: Dieses Dokument ist derzeit nur auf Englisch verfügbar. Wenn Sie Unterstützung benötigen, um dieses Dokument in Ihrer Sprache zu verstehen, kontaktieren Sie uns bitte unter [aetherlife.lifecounter@gmail.com].
 
 ### French
-> Note : Ce document est actuellement disponible uniquement en anglais. Si vous avez besoin d’aide pour comprendre ce document dans votre langue, veuillez nous contacter à [aetherlife.lifecounter@gmail.com].
+> Note : Ce document est actuellement disponible uniquement en anglais. Si vous avez besoin d’aide pour comprendre ce document dans votre langu[privacy_policy.md](privacy_policy.md)e, veuillez nous contacter à [aetherlife.lifecounter@gmail.com].
 
 ### Spanish
 > Nota: Este documento está disponible actualmente solo en inglés. Si necesita ayuda para entender este documento en su idioma, por favor contáctenos en [aetherlife.lifecounter@gmail.com].
@@ -37,7 +43,7 @@ You agree not to:
 - Misuse the App to harm, harass, or violate the rights of others
 
 ## 4. Intellectual Property
-The App and its content are owned by [Josip Vujnovic] or are used under license.
+The App and its content are owned by [AtresCode Llc.] or are used under license.
 Magic The Gathering content is used under [Wizards of the Coast's Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy) and is not endorsed by Wizards of the Coast.
 
 ## 5. Disclaimer of Warranties
@@ -45,7 +51,7 @@ The App is provided "as is" without warranties of any kind.
 We do not guarantee the App will always function without disruptions or errors.
 
 ## 6. Limitation of Liability
-In no event shall [Josip Vujnovic] be liable for indirect, incidental, special, consequential, or punitive damages arising out of the use of the App.
+In no event shall [AtresCode Llc.] be liable for indirect, incidental, special, consequential, or punitive damages arising out of the use of the App.
 
 ## 7. Changes to the Terms
 We reserve the right to modify these Terms at any time.  
