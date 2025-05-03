@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.atrescode.life",
+      "sha256_cert_fingerprints":
+        ["DE:E7:73:51:C4:BE:90:BF:E9:98:4D:50:6A:99:CB:30:6A:05:FE:A7:BD:F4:A8:83:AD:24:46:3F:69:E4:E6:17"]
+    }
+  }
+]
