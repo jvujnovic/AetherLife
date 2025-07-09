@@ -6,7 +6,7 @@ permalink: /privacy_policy/
 
 # Privacy Policy for AetherLife: MTG Life Counter
 
-_Last updated: [02.05.2025]_
+_Last updated: [09.07.2025]_
 
 ## Introduction
 Thank you for choosing to use AetherLife: MTG Life Counter ("we", "our", "us"). Your privacy is important to us. This Privacy Policy describes how we handle information when you use our mobile application ("the App").
@@ -32,38 +32,63 @@ Thank you for choosing to use AetherLife: MTG Life Counter ("we", "our", "us"). 
 > Nota: Este documento está atualmente disponível apenas em inglês. Se precisar de assistência para entender este documento no seu idioma, entre em contato conosco em [aetherlife.lifecounter@gmail.com].
 
 ## 1. Information We Collect
+
 We do not collect, store, or share any personally identifiable information (PII) from users.
 
-However, the App may collect anonymous technical data such as:
+However, the App may collect anonymous technical and behavioral data such as:
 - Crash reports
 - App performance analytics
 - Device type, OS version, general usage patterns
+- Advertising ID (used for ad personalization or frequency capping)
 
-This information is collected solely to improve the performance and stability of the App.
+We also collect anonymous usage data through Firebase Analytics, including:
+- Screen views (e.g., GameScreen, SettingsScreen, CardSearchScreen)
+- Feature usage (e.g., New Game started, Dice used)
+- User interaction events (e.g., open full-screen, create playmat)
 
 ## 2. Third-Party Services
-The App connects to external third-party services to enhance your experience:
+
+The App uses the following third-party services to enhance functionality:
+
 - **Scryfall API**: We use the public [Scryfall API](https://scryfall.com/docs/api) to allow users to search and display Magic: The Gathering card information. No personal data is sent to Scryfall.
-- **Crash Reporting and Analytics**: Anonymous technical info only.
+
+- **Google AdMob**: The App displays banner ads using Google AdMob. AdMob may collect non-personal data, including the device’s advertising ID (GAID or IDFA), for the purpose of serving personalized or contextual ads. You can opt out of personalized ads via your device's ad settings.
+
+- **Firebase Analytics**: We use Firebase Analytics to understand how users interact with the App. All data collected is aggregated and anonymous. It helps us improve app performance and usability.
 
 ## 3. MTG Content
-This app uses Magic The Gathering content under [Wizards of the Coast’s Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy).  
+
+This app uses Magic: The Gathering content under [Wizards of the Coast’s Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy).  
 This app is not affiliated with, endorsed by, sponsored by, or specifically approved by Wizards of the Coast.
 
 ## 4. How We Use Collected Information
+
 Anonymous data collected is used solely to:
-- Improve app performance
-- Fix bugs
-- Enhance user experience
+- Improve app performance and reliability
+- Fix bugs and understand crashes
+- Enhance user experience and feature quality
 
-## 5. User Rights and Data Deletion
-Since we do not collect personal information, there is no personal data to access, modify, or delete.  
-For any concerns, contact us at [aetherlife.lifecounter@gmail.com].
+### Sample events tracked:
+- Screen visits (e.g., CardDetailsScreen, GameHistoryScreen)
+- New game creation (e.g., Commander format, player count)
+- UI interactions (e.g., open full-screen, open dice roller)
+- Playmat customization options (e.g., use of gradients, image overlays)
 
-## 6. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Changes will be posted on this page.
+## 5. Ad Preferences
+
+You can control ad personalization via your device settings:
+- **Android**: Settings > Google > Ads > Opt out of Ads Personalization
+- **iOS**: Settings > Privacy > Apple Advertising > Turn off Personalized Ads
+
+## 6. User Rights and Data Deletion
+
+Since we do not collect or store personal information, there is no personal data to access, modify, or delete.  
+If you have any questions, contact us at [aetherlife.lifecounter@gmail.com].
+
+## 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page and reflected with a new "Last updated" date.
 
 ---
 
 By using AetherLife, you agree to this Privacy Policy.
-
