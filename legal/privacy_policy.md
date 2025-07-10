@@ -15,22 +15,22 @@ Thank you for choosing to use AetherLife: MTG Life Counter ("we", "our", "us"). 
 ## Legal Disclaimer Notices
 
 ### English
-> Note: This document is currently only available in English. If you require assistance understanding this document in your language, please contact us at [support@atrescode.com].
+> Note: This document is currently only available in English. If you require assistance understanding this document in your language, please contact us at [aetherlife.lifecounter@gmail.com].
 
 ### German
-> Hinweis: Dieses Dokument ist derzeit nur auf Englisch verfügbar. Wenn Sie Unterstützung benötigen, um dieses Dokument in Ihrer Sprache zu verstehen, kontaktieren Sie uns bitte unter [support@atrescode.com].
+> Hinweis: Dieses Dokument ist derzeit nur auf Englisch verfügbar. Wenn Sie Unterstützung benötigen, um dieses Dokument in Ihrer Sprache zu verstehen, kontaktieren Sie uns bitte unter [aetherlife.lifecounter@gmail.com].
 
 ### French
-> Note : Ce document est actuellement disponible uniquement en anglais. Si vous avez besoin d’aide pour comprendre ce document dans votre langue, veuillez nous contacter à [support@atrescode.com].
+> Note : Ce document est actuellement disponible uniquement en anglais. Si vous avez besoin d’aide pour comprendre ce document dans votre langue, veuillez nous contacter à [aetherlife.lifecounter@gmail.com].
 
 ### Spanish
-> Nota: Este documento está disponible actualmente solo en inglés. Si necesita ayuda para entender este documento en su idioma, por favor contáctenos en [support@atrescode.com].
+> Nota: Este documento está disponible actualmente solo en inglés. Si necesita ayuda para entender este documento en su idioma, por favor contáctenos en [aetherlife.lifecounter@gmail.com].
 
 ### Italian
-> Nota: Questo documento è attualmente disponibile solo in inglese. Se hai bisogno di assistenza per comprendere questo documento nella tua lingua, contattaci a [support@atrescode.com].
+> Nota: Questo documento è attualmente disponibile solo in inglese. Se hai bisogno di assistenza per comprendere questo documento nella tua lingua, contattaci a [aetherlife.lifecounter@gmail.com].
 
 ### Portuguese
-> Nota: Este documento está atualmente disponível apenas em inglês. Se precisar de assistência para entender este documento no seu idioma, entre em contato conosco em [support@atrescode.com].
+> Nota: Este documento está atualmente disponível apenas em inglês. Se precisar de assistência para entender este documento no seu idioma, entre em contato conosco em [aetherlife.lifecounter@gmail.com].
 
 ## 1. Information We Collect
 
@@ -97,7 +97,7 @@ Although we do not collect personal information, users still have rights under a
 
 We do not retain any personal data. Anonymous analytics data may be retained by third-party providers (e.g., Firebase, AdMob) according to their own data retention policies.
 
-If you have any questions or requests regarding your rights, contact us at [support@atrescode.com].
+If you have any questions or requests regarding your rights, contact us at [aetherlife.lifecounter@gmail.com].
 
 ## 7. Legal Basis for Processing
 
@@ -112,7 +112,7 @@ If you are a California resident, you have rights under the California Consumer 
 - The right to request deletion of personal data
 - The right to opt out of the sale of personal data (we do not sell data)
 
-To exercise these rights, contact us at [support@atrescode.com].
+To exercise these rights, contact us at [aetherlife.lifecounter@gmail.com].
 
 ### Virginia Residents (VCDPA)
 
@@ -121,7 +121,7 @@ If you are a Virginia resident, you have rights under the Virginia Consumer Data
 - The right to correct inaccurate personal data
 - The right to opt out of targeted advertising
 
-Contact us at [support@atrescode.com] to make a request.
+Contact us at [aetherlife.lifecounter@gmail.com] to make a request.
 
 ### Right to Lodge a Complaint
 
@@ -130,7 +130,7 @@ You have the right to lodge a complaint with your local data protection authorit
 ## 9. Data Controller and Contact
 
 **Data Controller**: AtresCode ltd  
-**Email**: [support@atrescode.com]
+**Email**: [aetherlife.lifecounter@gmail.com]
 
 We do not currently appoint a Data Protection Officer. For any privacy concerns, contact the Data Controller at the email above.
 
