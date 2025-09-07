@@ -6,7 +6,7 @@ permalink: /privacy_policy/
 
 # Privacy Policy for AetherLife: MTG Life Counter
 
-_Last updated: 10.07.2025_
+_Last updated: 07.09.2025_
 
 ## Introduction
 
@@ -41,6 +41,8 @@ However, the App may collect anonymous technical and behavioral data such as:
 - App performance analytics
 - Device type, OS version, general usage patterns
 - Advertising ID (used for ad personalization or frequency capping)
+- Other device identifiers (e.g., Android ID, IDFA) as required by third-party advertising SDKs
+
 
 We also collect anonymous usage data through Firebase Analytics, including:
 - Screen views (e.g., GameScreen, SettingsScreen, CardSearchScreen)
@@ -55,9 +57,11 @@ The App uses the following third-party services to enhance functionality:
 
 - **Google AdMob**: Displays banner ads. AdMob may collect non-personal data, including the device’s advertising ID (GAID or IDFA), to serve personalized or contextual ads. You can opt out of personalized ads via your device settings.
 
+- **Meta Audience Network**: Used to display ads through mediation. Meta Audience Network may collect device identifiers (such as the Advertising ID, Android ID, IDFA, or other device information) to deliver ads, limit ad frequency, detect fraud, and measure ad performance. For more details, see the [Meta Privacy Policy](https://www.facebook.com/privacy/policy).
+
 - **Firebase Analytics**: Used to understand user interaction with the App. Data collected is aggregated and anonymous.
 
-Note: While we do not collect personal data ourselves, these third-party services may collect identifiers such as the Advertising ID for ad delivery and analytics purposes.
+Note: While we do not collect personal data ourselves, these third-party services may collect device identifiers (such as Advertising ID, Android ID, IDFA, or other device IDs) for ad delivery, analytics, and fraud prevention.
 
 ## 3. MTG Content
 
@@ -82,6 +86,8 @@ Anonymous data collected is used solely to:
 You can control ad personalization via your device settings:
 - **Android**: Settings > Google > Ads > Opt out of Ads Personalization
 - **iOS**: Settings > Privacy > Apple Advertising > Turn off Personalized Ads
+
+Both Google AdMob and Meta Audience Network respect your device-level ad personalization settings. If you opt out of personalized ads, only non-personalized ads will be shown.
 
 We do not sell personal data. Users may opt out of any data sharing for targeted ads by adjusting ad personalization settings on their device.
 
@@ -110,9 +116,9 @@ Under the General Data Protection Regulation (GDPR), our legal basis for process
 If you are a California resident, you have rights under the California Consumer Privacy Act (CCPA), including:
 - The right to know what personal data is collected and how it is used
 - The right to request deletion of personal data
-- The right to opt out of the sale of personal data (we do not sell data)
+- The right to opt out of the sale or sharing of personal data (we do not sell data)
 
-To exercise these rights, contact us at [aetherlife.lifecounter@gmail.com].
+Our app uses advertising partners, including Google and Meta, which may process your device identifiers (such as Advertising ID) for targeted advertising purposes.
 
 ### Virginia Residents (VCDPA)
 
@@ -121,7 +127,7 @@ If you are a Virginia resident, you have rights under the Virginia Consumer Data
 - The right to correct inaccurate personal data
 - The right to opt out of targeted advertising
 
-Contact us at [aetherlife.lifecounter@gmail.com] to make a request.
+Our app uses advertising partners, including Google and Meta, which may process your device identifiers for targeted advertising. Contact us at [aetherlife.lifecounter@gmail.com] to make a request.
 
 ### Right to Lodge a Complaint
 
@@ -129,7 +135,7 @@ You have the right to lodge a complaint with your local data protection authorit
 
 ## 9. Data Controller and Contact
 
-**Data Controller**: AtresCode ltd  
+**Data Controller**: AtresCode d.o.o.  
 **Email**: [aetherlife.lifecounter@gmail.com]
 
 We do not currently appoint a Data Protection Officer. For any privacy concerns, contact the Data Controller at the email above.

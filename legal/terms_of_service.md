@@ -6,7 +6,7 @@ permalink: /terms_of_service/
 
 # Terms of Service for AetherLife: MTG Life Counter
 
-_Last updated: [09.07.2025]_
+_Last updated: [07.09.2025]_
 
 ## Legal Disclaimer Notices
 
@@ -36,7 +36,7 @@ By downloading or using AetherLife: MTG Life Counter ("the App"), you agree to b
 
 AetherLife provides tools for tracking life totals, counters, and game history related to Magic: The Gathering gameplay. It also enables users to search for card information via the Scryfall API.
 
-The App may display banner advertisements via Google AdMob and collects anonymous usage statistics through Firebase Analytics to improve the user experience. Ads support the continued development and maintenance of the App.
+The App may display banner advertisements via third-party advertising networks (such as Google AdMob and Meta Audience Network) and collects anonymous usage statistics through Firebase Analytics to improve the user experience. Ads support the continued development and maintenance of the App.
 
 The App is intended for personal, non-commercial use.
 
@@ -49,7 +49,7 @@ You agree not to:
 
 ## 4. Intellectual Property
 
-The App and its content are owned by [AtresCode Llc.] or are used under license.  
+The App and its content are owned by [AtresCode d.o.o.] or are used under license.  
 Magic: The Gathering content is used under [Wizards of the Coast's Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy) and is not endorsed by Wizards of the Coast.
 
 ## 5. Disclaimer of Warranties
@@ -59,7 +59,7 @@ We do not guarantee the App will always function without disruptions or errors.
 
 ## 6. Limitation of Liability
 
-In no event shall [AtresCode Llc.] be liable for indirect, incidental, special, consequential, or punitive damages arising out of the use of the App.
+In no event shall [AtresCode d.o.o.] be liable for indirect, incidental, special, consequential, or punitive damages arising out of the use of the App.
 
 ## 7. Changes to the Terms
 
