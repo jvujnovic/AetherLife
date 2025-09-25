@@ -6,7 +6,7 @@ permalink: /privacy_policy/
 
 # Privacy Policy for AetherLife: MTG Life Counter
 
-_Last updated: 07.09.2025_
+_Last updated: 25.09.2025_
 
 ## Introduction
 
@@ -30,7 +30,7 @@ Thank you for choosing to use AetherLife: MTG Life Counter ("we", "our", "us"). 
 > Nota: Questo documento è attualmente disponibile solo in inglese. Se hai bisogno di assistenza per comprendere questo documento nella tua lingua, contattaci a [aetherlife.lifecounter@gmail.com].
 
 ### Portuguese
-> Nota: Este documento está atualmente disponível apenas em inglês. Se precisar de assistência para entender este documento no seu idioma, entre em contato conosco em [aetherlife.lifecounter@gmail.com].
+> Nota: Este documento está atualmente disponibile apenas em inglês. Se precisar de assistência para entender este documento no seu idioma, entre em contato conosco em [aetherlife.lifecounter@gmail.com].
 
 ## 1. Information We Collect
 
@@ -42,7 +42,6 @@ However, the App may collect anonymous technical and behavioral data such as:
 - Device type, OS version, general usage patterns
 - Advertising ID (used for ad personalization or frequency capping)
 - Other device identifiers (e.g., Android ID, IDFA) as required by third-party advertising SDKs
-
 
 We also collect anonymous usage data through Firebase Analytics, including:
 - Screen views (e.g., GameScreen, SettingsScreen, CardSearchScreen)
@@ -58,6 +57,8 @@ The App uses the following third-party services to enhance functionality:
 - **Google AdMob**: Displays banner ads. AdMob may collect non-personal data, including the device’s advertising ID (GAID or IDFA), to serve personalized or contextual ads. You can opt out of personalized ads via your device settings.
 
 - **Meta Audience Network**: Used to display ads through mediation. Meta Audience Network may collect device identifiers (such as the Advertising ID, Android ID, IDFA, or other device information) to deliver ads, limit ad frequency, detect fraud, and measure ad performance. For more details, see the [Meta Privacy Policy](https://www.facebook.com/privacy/policy).
+
+- **ironSource (LevelPlay Mediation)**: Used to manage and serve ads from multiple ad networks. ironSource may collect device identifiers (such as Advertising ID, Android ID, IDFA) to deliver ads, perform frequency capping, detect fraud, and measure ad performance. For more details, see the [ironSource Privacy Policy](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/).
 
 - **Firebase Analytics**: Used to understand user interaction with the App. Data collected is aggregated and anonymous.
 
@@ -87,7 +88,7 @@ You can control ad personalization via your device settings:
 - **Android**: Settings > Google > Ads > Opt out of Ads Personalization
 - **iOS**: Settings > Privacy > Apple Advertising > Turn off Personalized Ads
 
-Both Google AdMob and Meta Audience Network respect your device-level ad personalization settings. If you opt out of personalized ads, only non-personalized ads will be shown.
+Both Google AdMob, Meta Audience Network, and ironSource respect your device-level ad personalization settings. If you opt out of personalized ads, only non-personalized ads will be shown.
 
 We do not sell personal data. Users may opt out of any data sharing for targeted ads by adjusting ad personalization settings on their device.
 
@@ -101,7 +102,7 @@ Although we do not collect personal information, users still have rights under a
 - **Right to Know About Data Sharing**: You may request to know whether your data is shared and with whom.
 - **Right to Opt-Out**: You may opt out of personalized ads through system settings (see section 5).
 
-We do not retain any personal data. Anonymous analytics data may be retained by third-party providers (e.g., Firebase, AdMob) according to their own data retention policies.
+We do not retain any personal data. Anonymous analytics data may be retained by third-party providers (e.g., Firebase, AdMob, Meta, ironSource) according to their own data retention policies.
 
 If you have any questions or requests regarding your rights, contact us at [aetherlife.lifecounter@gmail.com].
 
@@ -118,7 +119,7 @@ If you are a California resident, you have rights under the California Consumer 
 - The right to request deletion of personal data
 - The right to opt out of the sale or sharing of personal data (we do not sell data)
 
-Our app uses advertising partners, including Google and Meta, which may process your device identifiers (such as Advertising ID) for targeted advertising purposes.
+Our app uses advertising partners, including Google, Meta, and ironSource, which may process your device identifiers (such as Advertising ID) for targeted advertising purposes.
 
 ### Virginia Residents (VCDPA)
 
@@ -127,7 +128,7 @@ If you are a Virginia resident, you have rights under the Virginia Consumer Data
 - The right to correct inaccurate personal data
 - The right to opt out of targeted advertising
 
-Our app uses advertising partners, including Google and Meta, which may process your device identifiers for targeted advertising. Contact us at [aetherlife.lifecounter@gmail.com] to make a request.
+Our app uses advertising partners, including Google, Meta, and ironSource, which may process your device identifiers for targeted advertising. Contact us at [aetherlife.lifecounter@gmail.com] to make a request.
 
 ### Right to Lodge a Complaint
 
