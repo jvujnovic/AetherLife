@@ -1,0 +1,24 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ZJHZF4462S.com.atrescode.life.LifeCounter",
+        "paths": [
+          "/join/*",
+          "/AetherLife/join/*"
+        ],
+        "components": [
+          {
+            "/": "/join/*",
+            "comment": "Direct room join via 6-digit PIN"
+          },
+          {
+            "/": "/AetherLife/join/*",
+            "comment": "Compatibility path for GitHub Pages"
+          }
+        ]
+      }
+    ]
+  }
+}
