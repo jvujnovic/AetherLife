@@ -15,22 +15,22 @@ Thank you for choosing to use AetherLife: MTG Life Counter ("we", "our", "us"). 
 ## Legal Disclaimer Notices
 
 ### English
-> Note: This document is currently only available in English. If you require assistance understanding this document in your language, please contact us at [aetherlife.lifecounter@gmail.com].
+> Note: This document is currently only available in English. If you require assistance understanding this document in your language, please contact us at [contact@aetherlife.net].
 
 ### German
-> Hinweis: Dieses Dokument ist derzeit nur auf Englisch verfügbar. Wenn Sie Unterstützung benötigen, um dieses Dokument in Ihrer Sprache zu verstehen, kontaktieren Sie uns bitte unter [aetherlife.lifecounter@gmail.com].
+> Hinweis: Dieses Dokument ist derzeit nur auf Englisch verfügbar. Wenn Sie Unterstützung benötigen, um dieses Dokument in Ihrer Sprache zu verstehen, kontaktieren Sie uns bitte unter [contact@aetherlife.net].
 
 ### French
-> Note : Ce document est actuellement disponible uniquement en anglais. Si vous avez besoin d’aide pour comprendre ce document dans votre langue, veuillez nous contacter à [aetherlife.lifecounter@gmail.com].
+> Note : Ce document est actuellement disponible uniquement en anglais. Si vous avez besoin d’aide pour comprendre ce document dans votre langue, veuillez nous contacter à [contact@aetherlife.net].
 
 ### Spanish
-> Nota: Este documento está disponible actualmente solo en inglés. Si necesita ayuda para entender este documento en su idioma, por favor contáctenos en [aetherlife.lifecounter@gmail.com].
+> Nota: Este documento está disponible actualmente solo en inglés. Si necesita ayuda para entender este documento en su idioma, por favor contáctenos en [contact@aetherlife.net].
 
 ### Italian
-> Nota: Questo documento è attualmente disponibile solo in inglese. Se hai bisogno di assistenza per comprendere questo documento nella tua lingua, contattaci a [aetherlife.lifecounter@gmail.com].
+> Nota: Questo documento è attualmente disponibile solo in inglese. Se hai bisogno di assistenza per comprendere questo documento nella tua lingua, contattaci a [contact@aetherlife.net].
 
 ### Portuguese
-> Nota: Este documento está atualmente disponibile apenas em inglês. Se precisar de assistência para entender este documento no seu idioma, entre em contato conosco em [aetherlife.lifecounter@gmail.com].
+> Nota: Este documento está atualmente disponibile apenas em inglês. Se precisar de assistência para entender este documento no seu idioma, entre em contato conosco em [contact@aetherlife.net].
 
 ## 1. Information We Collect
 
@@ -104,7 +104,7 @@ Although we do not collect personal information, users still have rights under a
 
 We do not retain any personal data. Anonymous analytics data may be retained by third-party providers (e.g., Firebase, AdMob, Meta, ironSource) according to their own data retention policies.
 
-If you have any questions or requests regarding your rights, contact us at [aetherlife.lifecounter@gmail.com].
+If you have any questions or requests regarding your rights, contact us at [contact@aetherlife.net].
 
 ## 7. Legal Basis for Processing
 
@@ -128,7 +128,7 @@ If you are a Virginia resident, you have rights under the Virginia Consumer Data
 - The right to correct inaccurate personal data
 - The right to opt out of targeted advertising
 
-Our app uses advertising partners, including Google, Meta, and ironSource, which may process your device identifiers for targeted advertising. Contact us at [aetherlife.lifecounter@gmail.com] to make a request.
+Our app uses advertising partners, including Google, Meta, and ironSource, which may process your device identifiers for targeted advertising. Contact us at [contact@aetherlife.net] to make a request.
 
 ### Right to Lodge a Complaint
 
@@ -137,7 +137,7 @@ You have the right to lodge a complaint with your local data protection authorit
 ## 9. Data Controller and Contact
 
 **Data Controller**: AtresCode d.o.o.  
-**Email**: [aetherlife.lifecounter@gmail.com]
+**Email**: [contact@aetherlife.net]
 
 We do not currently appoint a Data Protection Officer. For any privacy concerns, contact the Data Controller at the email above.
 

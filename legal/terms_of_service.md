@@ -11,22 +11,22 @@ _Last updated: [07.09.2025]_
 ## Legal Disclaimer Notices
 
 ### English
-> Note: This document is currently only available in English. If you require assistance understanding this document in your language, please contact us at [aetherlife.lifecounter@gmail.com].
+> Note: This document is currently only available in English. If you require assistance understanding this document in your language, please contact us at [contact@aetherlife.net].
 
 ### German
-> Hinweis: Dieses Dokument ist derzeit nur auf Englisch verfügbar. Wenn Sie Unterstützung benötigen, um dieses Dokument in Ihrer Sprache zu verstehen, kontaktieren Sie uns bitte unter [aetherlife.lifecounter@gmail.com].
+> Hinweis: Dieses Dokument ist derzeit nur auf Englisch verfügbar. Wenn Sie Unterstützung benötigen, um dieses Dokument in Ihrer Sprache zu verstehen, kontaktieren Sie uns bitte unter [contact@aetherlife.net].
 
 ### French
-> Note : Ce document est actuellement disponible uniquement en anglais. Si vous avez besoin d’aide für comprendre ce document dans votre langue, veuillez nous contacter à [aetherlife.lifecounter@gmail.com].
+> Note : Ce document est actuellement disponible uniquement en anglais. Si vous avez besoin d’aide für comprendre ce document dans votre langue, veuillez nous contacter à [contact@aetherlife.net].
 
 ### Spanish
-> Nota: Este documento está disponible actualmente solo en inglés. Si necesita ayuda para entender este documento en su idioma, por favor contáctenos en [aetherlife.lifecounter@gmail.com].
+> Nota: Este documento está disponible actualmente solo en inglés. Si necesita ayuda para entender este documento en su idioma, por favor contáctenos en [contact@aetherlife.net].
 
 ### Italian
-> Nota: Questo documento è attualmente disponibile solo in inglese. Se hai bisogno di assistenza per comprendere questo documento nella tua lingua, contattaci a [aetherlife.lifecounter@gmail.com].
+> Nota: Questo documento è attualmente disponibile solo in inglese. Se hai bisogno di assistenza per comprendere questo documento nella tua lingua, contattaci a [contact@aetherlife.net].
 
 ### Portuguese
-> Nota: Este documento está atualmente disponível apenas em inglês. Se precisar de assistência para entender este documento no seu idioma, entre em contato conosco em [aetherlife.lifecounter@gmail.com].
+> Nota: Este documento está atualmente disponível apenas em inglês. Se precisar de assistência para entender este documento no seu idioma, entre em contato conosco em [contact@aetherlife.net].
 
 ## 1. Acceptance of Terms
 
@@ -68,4 +68,4 @@ Continued use of the App after changes constitutes acceptance of the updated Ter
 
 ## 8. Contact
 
-If you have any questions about these Terms, contact us at [aetherlife.lifecounter@gmail.com].
+If you have any questions about these Terms, contact us at [contact@aetherlife.net].
