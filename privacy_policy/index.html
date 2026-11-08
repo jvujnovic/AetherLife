@@ -128,7 +128,7 @@
     <a href="../" class="back-link">← Back to AetherLife</a>
 
     <h1>Privacy Policy</h1>
-    <div class="last-updated">AetherLife: MTG Life Counter • Last updated: 25.09.2025</div>
+    <div class="last-updated">AetherLife: MTG Life Counter • Last updated: 08.11.2026</div>
 
     <h2>Introduction</h2>
     <p>Thank you for choosing to use AetherLife: MTG Life Counter ("we", "our", "us"). Your privacy is important to us. This Privacy Policy describes how we handle information when you use our mobile application ("the App").</p>
@@ -171,6 +171,14 @@
         <li>User interaction events (e.g., open full-screen, create playmat)</li>
     </ul>
 
+    <h3>Multiplayer Features (Zero-Registration Gameplay)</h3>
+    <p>When you create or join a real-time multiplayer room, the App facilitates synchronized tabletop tracking without requiring an account, email address, password, or any personally identifiable information. Multiplayer functions using:</p>
+    <ul>
+        <li><strong>Anonymous Device Identifier:</strong> A randomly generated pseudonymous UUID stored locally on your device to identify your seat in the room and maintain session connectivity.</li>
+        <li><strong>Multiplayer Session & Match Data:</strong> Game state data, including 6-digit room PINs, user-chosen player nicknames, optional deck/commander names, seat assignments, live in-game counters (life totals, commander damage, commander tax, poison, and tokens), and session match statistics. This data is synchronized in real time via secure WebSockets and is retained for the active lifecycle of the multiplayer room (enabling rematches and session statistics). All associated session and player state data is permanently removed when the room is deleted by the host or purged due to inactivity.</li>
+        <li><strong>In-App Beta Feedback:</strong> If you voluntarily submit feedback via the in-app feedback dialog, we collect star ratings, optional written comments, your anonymous device identifier, app version, and operating system platform (Android/iOS) solely to diagnose desync issues and improve multiplayer stability.</li>
+    </ul>
+
     <h2>2. Third-Party Services</h2>
     <p>The App uses the following third-party services to enhance functionality:</p>
     <ul>
@@ -179,6 +187,7 @@
         <li><strong>Meta Audience Network:</strong> Used to display ads through mediation. Meta Audience Network may collect device identifiers (such as the Advertising ID, Android ID, IDFA, or other device information) to deliver ads, limit ad frequency, detect fraud, and measure ad performance. For more details, see the <a href="https://www.facebook.com/privacy/policy" target="_blank" rel="noopener">Meta Privacy Policy</a>.</li>
         <li><strong>ironSource (LevelPlay Mediation):</strong> Used to manage and serve ads from multiple ad networks. ironSource may collect device identifiers (such as Advertising ID, Android ID, IDFA) to deliver ads, perform frequency capping, detect fraud, and measure ad performance. For more details, see the <a href="https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/" target="_blank" rel="noopener">ironSource Privacy Policy</a>.</li>
         <li><strong>Firebase Analytics:</strong> Used to understand user interaction with the App. Data collected is aggregated and anonymous.</li>
+        <li><strong>Supabase:</strong> Provides backend infrastructure (PostgreSQL database and Realtime WebSockets) for real-time multiplayer room matchmaking, state synchronization, and storing voluntary beta feedback. No personally identifiable information is transmitted to Supabase. For more details, see the <a href="https://supabase.com/privacy" target="_blank" rel="noopener">Supabase Privacy Policy</a>.</li>
     </ul>
     <p><em>Note: While we do not collect personal data ourselves, these third-party services may collect device identifiers (such as Advertising ID, Android ID, IDFA, or other device IDs) for ad delivery, analytics, and fraud prevention.</em></p>
 
@@ -188,6 +197,7 @@
     <h2>4. How We Use Collected Information</h2>
     <p>Anonymous data collected is used solely to:</p>
     <ul>
+        <li>Deliver real-time multiplayer match synchronization, rematches, and pod session statistics</li>
         <li>Improve app performance and reliability</li>
         <li>Fix bugs and understand crashes</li>
         <li>Enhance user experience and feature quality</li>
@@ -218,6 +228,7 @@
     <h2>8. Regional Privacy Rights</h2>
     <h3>California Residents (CCPA)</h3>
     <p>If you are a California resident, you have rights under the California Consumer Privacy Act (CCPA), including the right to know what personal data is collected and how it is used, the right to request deletion of personal data, and the right to opt out of the sale or sharing of personal data (we do not sell data).</p>
+    <p>Our app uses advertising partners, including Google, Meta, and ironSource, which may process your device identifiers (such as Advertising ID) for targeted advertising purposes.</p>
 
     <h3>Virginia Residents (VCDPA)</h3>
     <p>If you are a Virginia resident, you have rights under the Virginia Consumer Data Protection Act (VCDPA), including the right to access, delete, and correct personal data, and the right to opt out of targeted advertising. Contact us at <a href="mailto:contact@aetherlife.net">contact@aetherlife.net</a> to make a request.</p>
@@ -228,12 +239,15 @@
     <h2>9. Data Controller and Contact</h2>
     <p><strong>Data Controller:</strong> AtresCode d.o.o.<br />
     <strong>Email:</strong> <a href="mailto:contact@aetherlife.net">contact@aetherlife.net</a></p>
+    <p>We do not currently appoint a Data Protection Officer. For any privacy concerns, contact the Data Controller at the email above.</p>
 
     <h2>10. Changes to This Privacy Policy</h2>
     <p>We may update this Privacy Policy from time to time. Changes will be posted on this page and reflected with a new "Last updated" date.</p>
 
+    <p style="margin-top: 24px; font-weight: 600;">By using AetherLife, you agree to this Privacy Policy.</p>
+
     <div class="footer">
-        © 2026 AetherLife • Magic: The Gathering is a trademark of Wizards of the Coast LLC.
+        © 2026 AtresCode d.o.o. • AetherLife is a product of AtresCode d.o.o. • Magic: The Gathering is a trademark of Wizards of the Coast LLC.
     </div>
 </div>
 
